@@ -42,6 +42,8 @@ sudo apt update -y && sudo apt upgrade -y
 # Create a Screen
 apt install screen -y <br>
 screen -S kaisar <br>
+
+# Install npm and node js. 
 apt install npm -y <br>
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash <br>
 source ~/.bashrc <br>
