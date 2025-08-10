@@ -1,18 +1,18 @@
 Kaisar Network:
 
-The Universal AI Compute Layer. Your Compute, Your Currency.
+The Universal AI Compute Layer. Your Compute, Your Currency.<br>
 ![GxAmD-jbkAAAwHK](https://github.com/user-attachments/assets/20c3b283-8f32-4af0-8f95-3e7b81569f40)
 
-Kaisar Provider CLI Installation Guide for Contributing to Kaisar Network
-Requirements:
-Memory: 4GB RAM
-Processor: 64-bit CPU with virtualization support
-Storage: 100GB HDD/SSD
-Internet Speed: 100Mbps or higher
+Kaisar Provider CLI Installation Guide for Contributing to Kaisar Network<br>
+Requirements:<br>
+Memory: 4GB RAM<br>
+Processor: 64-bit CPU with virtualization support<br>
+Storage: 100GB HDD/SSD<br>
+Internet Speed: 100Mbps or higher<br>
 
-Rent a VPS
-VPS is (Virtual Private Server that runs 24/7)
-Order Here: (Use the Link and Euro(€) For Discount):
+Rent a VPS<br>
+VPS is (Virtual Private Server that runs 24/7)<br>
+Order Here: (Use the Link and Euro(€) For Discount):<br>
 https://www.tkqlhce.com/click-101512553-13484397
 
 
