@@ -17,20 +17,20 @@ https://www.tkqlhce.com/click-101512553-13484397
 
 
 I recommend to run this on VPS20 > Region Any> Storage Type 400GB SSD> Ubuntu v22.04> Log in Password (Don’t forget) > 6–8 settings default only > Click Next >
-Fill up your details > Payment.
-“I used Gotymebank or Maya(both vitual cards) link to Paypal(all are perfored in the website). You will pay €12.25 or 800+ pesos[No Set Up Fee  with Claim 6.⁰⁰ Credit Back].”
-Once Paid > Wait for the Email to Arrived > Follow instruction.
-“Personally I’m using VPS30, to sustain my other Nodes”
+Fill up your details > Payment.<br>
+“I used Gotymebank or Maya(both vitual cards) link to Paypal(all are perfored in the website). You will pay €12.25 or 800+ pesos[No Set Up Fee  with Claim 6.⁰⁰ Credit Back].”<br>
+Once Paid > Wait for the Email to Arrived > Follow instruction.<br>
+“Personally I’m using VPS30, to sustain my other Nodes”<br>
 
 
-Setting up on Your Laptop/PC Windows:
-Now you have your own VPS server.
-Download putty.org > log in to your IP there.
-After Connected, We can now Start.
-Still Confuse? More Guide in VPS Access:
-https://www.facebook.com/share/p/zhHCh3773653iXZF/
-You have now your own Ubuntu(Linux Server) that runs 24/7 in other country. 
-Let’s Navigate!
+Setting up on Your Laptop/PC Windows:<br>
+Now you have your own VPS server.<br>
+Download putty.org > log in to your IP there.<br>
+After Connected, We can now Start.<br>
+Still Confuse? More Guide in VPS Access:<br>
+https://www.facebook.com/share/p/zhHCh3773653iXZF/<br>
+You have now your own Ubuntu(Linux Server) that runs 24/7 in other country. <br>
+Let’s Navigate!<br>
 
 
 On Terminal 
