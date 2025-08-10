@@ -3,12 +3,8 @@ Kaisar Network:
 The Universal AI Compute Layer. Your Compute, Your Currency.
 ![GxAmD-jbkAAAwHK](https://github.com/user-attachments/assets/20c3b283-8f32-4af0-8f95-3e7b81569f40)
 
-
-
 Kaisar Provider CLI Installation Guide for Contributing to Kaisar Network
-Requirements
-To run the Kaisar Provider, ensure your system meets the following specifications:
-Operating System: Ubuntu 20.04+, CentOS 8+, or compatible 64-bit Linux distribution
+Requirements:
 Memory: 4GB RAM
 Processor: 64-bit CPU with virtualization support
 Storage: 100GB HDD/SSD
@@ -16,15 +12,111 @@ Internet Speed: 100Mbps or higher
 
 Rent a VPS
 VPS is (Virtual Private Server that runs 24/7)
-
-Dependencies
-The following packages and libraries are required (the setup script will install them automatically if missing):
-
+Order Here: (Use the Link and Euro(€) For Discount):
+https://www.tkqlhce.com/click-101512553-13484397
 
 
-Node.js (v18 or higher recommended)
-npm
-pm2
-curl
-tar
-git (for some operations)
+I recommend to run this on VPS20 > Region Any> Storage Type 400GB SSD> Ubuntu v22.04> Log in Password (Don’t forget) > 6–8 settings default only > Click Next >
+Fill up your details > Payment.
+“I used Gotymebank or Maya(both vitual cards) link to Paypal(all are perfored in the website). You will pay €12.25 or 800+ pesos[No Set Up Fee  with Claim 6.⁰⁰ Credit Back].”
+Once Paid > Wait for the Email to Arrived > Follow instruction.
+“Personally I’m using VPS30, to sustain my other Nodes”
+
+
+Setting up on Your Laptop/PC Windows:
+Now you have your own VPS server.
+Download putty.org > log in to your IP there.
+After Connected, We can now Start.
+Still Confuse? More Guide in VPS Access:
+https://www.facebook.com/share/p/zhHCh3773653iXZF/
+You have now your own Ubuntu(Linux Server) that runs 24/7 in other country. 
+Let’s Navigate!
+
+
+On Terminal 
+Copy and Paste the Following Commands:
+
+# Prerequisites:
+sudo apt update -y && sudo apt upgrade -y
+
+# Create a Screen
+apt install screen -y 
+screen -S kaisar
+apt install npm -y
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+source ~/.bashrc
+nvm — version
+nvm ls
+nvm ls-remote
+
+# I choose v20.15.1
+nvm install v20.15.1
+
+# Install pm2
+sudo npm install -g pm2
+# Install script
+curl -O https://raw.githubusercontent.com/Kaisar-Network/kaisar-releases/main/kaisar-provider-setup.sh
+<img width="1434" height="309" alt="Screenshot 2025-08-10 at 7 19 42 PM" src="https://github.com/user-attachments/assets/514fe56c-8936-42ec-b171-7cd258397d23" />
+
+# Make the Script Executable
+chmod +x kaisar-provider-setup.sh
+<img width="745" height="253" alt="Screenshot 2025-08-10 at 7 20 55 PM" src="https://github.com/user-attachments/assets/aeb7a86b-68e6-4c72-a56a-c5dae85f2991" />
+
+# Run the Setup Script with Root Privileges
+sudo ./kaisar-provider-setup.sh
+
+# The script will automatically:
+Install Node.js, npm, and pm2 if not already present
+Download the latest release of Kaisar Provider CLI
+Install all required dependencies
+Set up the CLI globally on your system
+<img width="1027" height="663" alt="Screenshot 2025-08-10 at 7 22 18 PM" src="https://github.com/user-attachments/assets/fb66dc50-8439-40ef-8c16-73340c0720bf" />
+
+# Verify the Installation
+After installation, verify by running:
+kaisar
+
+If you see a welcome message, the installation was successful!
+<img width="750" height="469" alt="Screenshot 2025-08-10 at 7 23 12 PM" src="https://github.com/user-attachments/assets/79f6897b-c575-4064-b963-74bbde585ad4" />
+
+Start Using the CLI
+You can now join the network with the following commands:
+Copy
+kaisar start          # Start the Provider App
+kaisar create-wallet -e <your email> # Create Wallet
+kaisar import-wallet -e <your email> -k <your private key> # Import your existed wallet
+kaisar status         # Check node status
+kaisar log            # Check details log of Provider App
+
+For easier:
+kaisar start
+kaisar create-wallet [Saved everything]
+kaisar status [Copy machine addresss] 
+Paste it : https://onenode.kaisar.io/provider
+<img width="1327" height="807" alt="Screenshot 2025-08-10 at 7 26 07 PM" src="https://github.com/user-attachments/assets/4b67b7a8-dc19-40a9-a343-280a7af78e43" />
+It will accumulate daily.
+For Logs: 
+kaisar log
+
+#Detach from the Screen
+Before exiting, use CTRL + A + D to safely detach from the screen session.
+To reattach to the running node screen, use:
+screen -ls
+screen -r (name of screen
+Viola! 🥳
+You are now running Kaisar Network and can Back anytime to logs. 🤖
+
+<img width="1363" height="766" alt="Screenshot 2025-08-10 at 7 28 02 PM" src="https://github.com/user-attachments/assets/c17b0a6c-8e48-4869-bb16-da3729b2a037" />
+
+Many are asking my tip function, there you are!
+Tips are highly appreciated.
+Wallet: 0x51AC7a95C1675bF5Ffb86a90b6F49cE0AA3A4da3
+Buy me Coffee: https://www.buymeacoffee.com/cryptobike
+Still Confuse behind those Nodes Tutorials?
+Enroll Now: https://buymeacoffee.com/cryptobike/commissions
+
+
+
+
+
+
