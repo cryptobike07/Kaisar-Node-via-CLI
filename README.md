@@ -58,10 +58,12 @@ nvm install v20.15.1
 sudo npm install -g pm2
 # Install script
 curl -O https://raw.githubusercontent.com/Kaisar-Network/kaisar-releases/main/kaisar-provider-setup.sh
+
 <img width="1434" height="309" alt="Screenshot 2025-08-10 at 7 19 42 PM" src="https://github.com/user-attachments/assets/514fe56c-8936-42ec-b171-7cd258397d23" />
 
 # Make the Script Executable
 chmod +x kaisar-provider-setup.sh
+
 <img width="745" height="253" alt="Screenshot 2025-08-10 at 7 20 55 PM" src="https://github.com/user-attachments/assets/aeb7a86b-68e6-4c72-a56a-c5dae85f2991" />
 
 # Run the Setup Script with Root Privileges
