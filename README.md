@@ -40,14 +40,14 @@ Copy and Paste the Following Commands:
 sudo apt update -y && sudo apt upgrade -y
 
 # Create a Screen
-apt install screen -y 
-screen -S kaisar
-apt install npm -y
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-source ~/.bashrc
-nvm — version
-nvm ls
-nvm ls-remote
+apt install screen -y <br>
+screen -S kaisar <br>
+apt install npm -y <br>
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash <br>
+source ~/.bashrc <br>
+nvm — version <br>
+nvm ls <br>
+nvm ls-remote <br>
 
 # I choose v20.15.1
 nvm install v20.15.1
