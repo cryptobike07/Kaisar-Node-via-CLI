@@ -90,10 +90,14 @@ kaisar log            # Check details log of Provider App
 
 For easier:
 kaisar start
+
 kaisar create-wallet [Saved everything]
+
 kaisar status [Copy machine addresss] 
+
 Paste it : https://onenode.kaisar.io/provider
 <img width="1327" height="807" alt="Screenshot 2025-08-10 at 7 26 07 PM" src="https://github.com/user-attachments/assets/4b67b7a8-dc19-40a9-a343-280a7af78e43" />
+
 It will accumulate daily.
 For Logs: 
 kaisar log
