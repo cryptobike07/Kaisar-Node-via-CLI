@@ -47,7 +47,7 @@ screen -S kaisar <br>
 apt install npm -y <br>
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash <br>
 source ~/.bashrc <br>
-nvm -- version <br>
+nvm --version <br>
 nvm ls <br>
 nvm ls-remote <br>
 
