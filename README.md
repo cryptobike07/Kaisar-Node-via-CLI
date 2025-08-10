@@ -83,36 +83,36 @@ kaisar
 If you see a welcome message, the installation was successful!
 <img width="750" height="469" alt="Screenshot 2025-08-10 at 7 23 12 PM" src="https://github.com/user-attachments/assets/79f6897b-c575-4064-b963-74bbde585ad4" />
 
-Start Using the CLI
-You can now join the network with the following commands:
-Copy
-kaisar start          # Start the Provider App
-kaisar create-wallet -e <your email> # Create Wallet
-kaisar import-wallet -e <your email> -k <your private key> # Import your existed wallet
-kaisar status         # Check node status
-kaisar log            # Check details log of Provider App
+Start Using the CLI <br>
+You can now join the network with the following commands: <br>
 
-For easier:
-kaisar start
+kaisar start          # Start the Provider App <br>
+kaisar create-wallet -e <your email> # Create Wallet<br>
+kaisar import-wallet -e <your email> -k <your private key> # Import your existed wallet<br>
+kaisar status         # Check node status<br>
+kaisar log            # Check details log of Provider App<br>
 
-kaisar create-wallet [Saved everything]
+For easier:<br>
+kaisar start<br>
 
-kaisar status [Copy machine addresss] 
+kaisar create-wallet [Saved everything]<br>
 
-Paste it : https://onenode.kaisar.io/provider
+kaisar status [Copy machine addresss] <br>
+
+Paste it : https://onenode.kaisar.io/provider<br>
 <img width="1327" height="807" alt="Screenshot 2025-08-10 at 7 26 07 PM" src="https://github.com/user-attachments/assets/4b67b7a8-dc19-40a9-a343-280a7af78e43" />
 
-It will accumulate daily.
-For Logs: 
-kaisar log
+It will accumulate daily.<br>
+For Logs: <br>
+kaisar log<br>
 
-#Detach from the Screen
-Before exiting, use CTRL + A + D to safely detach from the screen session.
-To reattach to the running node screen, use:
-screen -ls
-screen -r (name of screen
-Viola! 🥳
-You are now running Kaisar Network and can Back anytime to logs. 🤖
+#Detach from the Screen<br>
+Before exiting, use CTRL + A + D to safely detach from the screen session.<br>
+To reattach to the running node screen, use:<br>
+screen -ls<br>
+screen -r (name of screen<br>
+Viola! 🥳<br>
+You are now running Kaisar Network and can Back anytime to logs. 🤖<br>
 
 <img width="1363" height="766" alt="Screenshot 2025-08-10 at 7 28 02 PM" src="https://github.com/user-attachments/assets/c17b0a6c-8e48-4869-bb16-da3729b2a037" />
 
