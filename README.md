@@ -112,12 +112,10 @@ You are now running Kaisar Network and can Back anytime to logs. 🤖
 
 <img width="1363" height="766" alt="Screenshot 2025-08-10 at 7 28 02 PM" src="https://github.com/user-attachments/assets/c17b0a6c-8e48-4869-bb16-da3729b2a037" />
 
-Many are asking my tip function, there you are!
-Tips are highly appreciated.
-Wallet: 0x51AC7a95C1675bF5Ffb86a90b6F49cE0AA3A4da3
-Buy me Coffee: https://www.buymeacoffee.com/cryptobike
-Still Confuse behind those Nodes Tutorials?
-Enroll Now: https://buymeacoffee.com/cryptobike/commissions
+Many are asking my tip function, there you are! Tips are highly appreciated.<br>
+Wallet: 0x51AC7a95C1675bF5Ffb86a90b6F49cE0AA3A4da3<br>
+Buy me Coffee: https://www.buymeacoffee.com/cryptobike<br>
+Still Confuse behind those Nodes Tutorials? Enroll Now: https://buymeacoffee.com/cryptobike/commissions
 
 
 
