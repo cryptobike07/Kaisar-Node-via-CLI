@@ -1,8 +1,11 @@
+<!--
 Kaisar Network:
 
 The Universal AI Compute Layer. Your Compute, Your Currency.
-https://pbs.twimg.com/media/GxAmD-jbkAAAwHK?format=jpg&name=large<img width="1800" height="1013" alt="image" src="https://github.com/user-attachments/assets/33c66062-a338-43b4-90bf-725f6769c140" />
+https://pbs.twimg.com/media/GxAmD-jbkAAAwHK?format=jpg&name=large
 
+<img width="1800" height="1013" alt="image" src="https://github.com/user-attachments/assets/33c66062-a338-43b4-90bf-725f6769c140" />
+-->
 
 Kaisar Provider CLI Installation Guide for Contributing to Kaisar Network
 Requirements
