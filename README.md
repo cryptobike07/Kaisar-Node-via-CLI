@@ -117,6 +117,11 @@ You are now running Kaisar Network and can Back anytime to logs. 🤖<br>
 <img width="1363" height="766" alt="Screenshot 2025-08-10 at 7 28 02 PM" src="https://github.com/user-attachments/assets/c17b0a6c-8e48-4869-bb16-da3729b2a037" />
 
 
+Sources: <br>
+https://docs.kaisar.io/kaisar-network/kaisar-architecture/products/kaisar-onenode/kaisar-provider/how-to-run-kaisar-provider-app/linux-cli<br>
+Discord:[For Updates] <br>
+https://discord.gg/Pvg9mUFmxs
+
 Disclaimer:<br>
 This is for educational purposes only, especially for those who are interested in studying or running DePIN/Nodes.<br>
 No money is involved, and rewards are not guaranteed.<br>
